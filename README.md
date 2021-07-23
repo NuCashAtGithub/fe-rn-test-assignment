@@ -1,4 +1,4 @@
-# NUCash Test Assignment for a React Native Front-end Engineer 
+# NuCash Test Assignment for a React Native Front-end Engineer 
 
 The task is to develop a cross-platform mobile application using React Native and Typescript
 
